@@ -23,3 +23,18 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
 
 ## References & Credits 
+
+https://www.kaggle.com/chocozzz/santander-lightgbm-baseline-lb-0-899
+
+Santander EDA and Prediction | Kaggle
+
+EDA, PCA + Simple LGBM on KFold Technique | Kaggle
+
+https://www.kaggle.com/allunia/santander-customer-transaction-eda 
+
+ https://www.kaggle.com/mjbahmani/santander-ml-explainability
+
+https://www.kaggle.com/darbin/hierarchical-clustering-approach 
+
+https://www.kaggle.com/allunia/santander-customer-transaction-eda
+  
