@@ -26,9 +26,9 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
 https://www.kaggle.com/chocozzz/santander-lightgbm-baseline-lb-0-899
 
-Santander EDA and Prediction | Kaggle
+https://www.kaggle.com/roydatascience/eda-pca-simple-lgbm-on-kfold-technique
 
-EDA, PCA + Simple LGBM on KFold Technique | Kaggle
+https://www.kaggle.com/gpreda/santander-eda-and-prediction
 
 https://www.kaggle.com/allunia/santander-customer-transaction-eda 
 
